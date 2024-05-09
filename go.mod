@@ -1,4 +1,4 @@
-module github.com/FloatTech/AnimeAPI
+module github.com/starim00/AnimeAPI
 
 go 1.20
 
